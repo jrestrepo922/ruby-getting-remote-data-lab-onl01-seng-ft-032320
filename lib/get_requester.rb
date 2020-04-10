@@ -9,4 +9,11 @@ class GetRequester
     @url = url
 
   end
+
+
+  def get_response_body
+
+  end
+
+
 end
